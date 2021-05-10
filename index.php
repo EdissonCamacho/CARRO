@@ -41,7 +41,7 @@
         <div class="jumbotron">
             <h1>Carros </h1>
 
-            <img id="img" class="img-circle" src="../carros/vista/imagenes/carro.gif" alt="" srcset="">
+            <img id="img" class="img-circle" src="/vista/imagenes/carro.gif" alt="" srcset="">
             <p>Crea y tenga un inventario de sus vehiculos en su centro de servicio</p>
         </div>
 
